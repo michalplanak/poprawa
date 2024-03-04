@@ -1,0 +1,112 @@
+body, html {
+    margin: 0;
+    bottom: 0;
+    background-color: gray;
+}
+.left {
+    height: 700px;
+    width: 20%;
+    background-color: black;
+    position: absolute;
+    margin-top:50px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+nav {
+    margin-left: 40%;
+    position: absolute;
+}
+.right {
+    height: 700px;
+    width: 20%;
+    background-color: black;
+    position: absolute;
+    margin-top:50px;
+    margin-left: 80%;
+}
+.omnie {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    background-color: red;
+    margin-left: 25%;
+    margin-top: 50px;   
+}
+
+.blog {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    background-color: yellow;
+    margin-left: 50%;
+    margin-top: 400px;   
+}
+.kontakt {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    background-color: green;  
+    margin-left: 25%;
+    margin-top: 400px; 
+}
+.galeria {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    background-color: blue;   
+    margin-left: 50%;
+    margin-top: 50px;
+}
+footer {
+    margin-top: 900px;
+    position: absolute;
+    margin-left: 50%;
+}
+.up {
+    position: absolute;
+    width: 570px;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.down {
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 600px;
+    width: 860px;
+}
+.button {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 700px;
+    background-color: aqua;
+}
+.l {
+    width: 300px;
+    height: 500px;
+    margin-left: 25%;
+    position: absolute;
+    background-color: aqua;
+    margin-top: 150px;
+}
+.r {
+    width: 300px;
+    height: 500px;
+    margin-left: 60%;
+    position: absolute;
+    background-color: aqua;
+    margin-top: 150px;
+}
+.m {
+    width: 300px;
+    height: 500px;
+    margin-left: 42%;
+    position: absolute;
+    background-color: aqua;
+    margin-top: 150px;
+}
+
+    
